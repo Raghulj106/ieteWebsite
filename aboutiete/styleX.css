@@ -1,0 +1,43 @@
+.goals{
+    padding-bottom: 2%;
+
+    align-items: center;
+}
+.count{
+    border-radius: 20px;
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    justify-content: center;
+
+}
+.countcont{
+    padding-left: 4%;
+    padding-right: 1rem!important;
+    padding-left: 1rem!important;
+}
+.firstele p{
+    text-align: center;
+    
+}
+.firstele h3{
+    text-align: center;
+    
+}
+.college{
+    border-radius: 20px;
+background: rgba(44, 38, 95, 0.90);
+    padding-left: 5%;
+    padding-right: 5%;
+}
+#Header>div{
+    animation: nav-load 1s ease-in;
+}
+@keyframes nav-load{
+    0%{
+        transform: translateY(-100%);
+    }
+    100%{
+        transform: translateY(0);
+    }
+}

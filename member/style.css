@@ -1,0 +1,14 @@
+.ele{
+    padding: 14px 57px 14px;
+    border-radius: 22px;
+    margin-bottom: 24px;
+    margin-left: 16px;
+}
+.tex{
+    border-radius: 33px;
+    background-color: #8080D7;
+}
+#sub{
+    border-radius: 33px;
+    background-color: rgba(44, 38, 95, 0.90);
+}
